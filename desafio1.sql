@@ -100,7 +100,7 @@ INSERT INTO SpotifyClone.albums(album_id, album_name, artist_id, album_year) VAL
 (9, 'No guarantees', 5, 2015),
 (10, 'Apparatus', 6, 2015);
 
---Alguns tem áspas duplas porque o nome da música possui uma áspa simples.
+/*Alguns tem áspas duplas porque o nome da música possui uma áspa simples.*/
 INSERT INTO SpotifyClone.songs(song_id, song_name, album_id, seconds) VALUES
 (1, 'Soul For Us', 1, 200),
 (2, 'Reflections Of Magic', 1, 163),
