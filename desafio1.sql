@@ -128,7 +128,7 @@ INSERT INTO SpotifyClone.songs(song_id, song_name, album_id, seconds) VALUES
 (24, 'Finding My Traditions', 7, 179),
 (25, 'Walking And Man', 7, 229),
 (26, 'Hard And Time', 7, 135),
-(27, "Honey. I'm A Lone Wolf", 7, 150),
+(27, "Honey, I'm A Lone Wolf", 7, 150),
 (28, 'She Thinks I Wint Stay Toninght', 8, 166),
 (29, 'He Heard Youre Bad For Me', 8, 154),
 (30, 'He Hopes We Cant Stay', 8, 210),
